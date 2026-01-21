@@ -1,0 +1,16 @@
+p{
+    background-color: rgb(128, 255, 0);
+    border: 2px dashed black;
+    padding: 15px;
+}
+
+
+.stylTextu1{
+padding: 40px;
+margin: 100px;   
+background-color: aquamarine;
+}
+
+#skuska{
+    background-color: yellow;
+}

@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+}
+
+/* základné nastavenie pre všetky odseky */
+p {
+    border: 1.5px solid black;
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+}
+
+/* individuálne úpravy */
+.uprava1 {
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+
+.uprava2 {
+    border: 1.5px dashed blue;
+    margin: 10px;
+    padding: 10px;
+}
+
+.uprava3 {
+    border: 2px solid black;
+    margin: 0;
+    padding: 20px;
+}
+
+.uprava4 {
+    border: 2px solid black;
+    margin: 20px;
+    padding: 40px;
+}
+
+.uprava5 {
+    border: 2px solid black;
+    margin: 50px;
+    padding: 20px;
+}

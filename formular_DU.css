@@ -1,0 +1,37 @@
+label {
+    display: block;
+    margin-bottom: 5px;
+    
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh;
+    background-color: rgb(233, 228, 217);
+    text-align: center;
+    margin: 0px;
+}
+
+form {
+    border-radius: 11px;
+    background-color: aliceblue;
+    padding: 20px;
+ 
+}
+
+input {
+    margin-bottom: 20px;
+    padding: 8px;
+    width: 200px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    
+    
+}
+.uprava1{
+    background-color: rgb(52, 80, 236);
+}
+

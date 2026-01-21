@@ -1,0 +1,39 @@
+body{
+background-color: rgb(49, 226, 43);
+
+}
+
+.uprava1{
+border: 2px solid purple;
+margin: 50px;
+padding: 0px;
+color: blue;
+}
+.uprava2{
+border: 2px solid purple;
+text-align: center;
+padding: 20px;
+}
+.uprava3{
+background-color: yellow;
+color: orange;
+margin: 20px;
+padding: 50px;
+}
+.uprava10{
+border: 2px solid purple;
+text-align: center;
+
+}
+
+table{
+    background-color: azure;
+    border: 2px solid black;
+    border-collapse: collapse ;
+}
+
+td, tr, th{
+    border: 2px solid black;
+
+
+}

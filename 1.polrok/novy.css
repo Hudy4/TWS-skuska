@@ -1,0 +1,25 @@
+/* Stred stránky */
+body {
+    display: flex;
+    height: 100vh;
+    margin: 0px;
+    justify-content: center; /* horizontálne stred */
+    align-items: center;     /* vertikálne stred */
+    background-color: antiquewhite;
+    text-align: center;
+    
+}
+
+/* Každý input pod sebou */
+label {
+    display: block;
+    margin-bottom: 0px;
+}
+
+/* Rámik formulára */
+form {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;  /*oblé okraje*/
+
+}

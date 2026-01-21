@@ -1,0 +1,42 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #e3f5e3; /* svetlo zelené pozadie */
+    margin: 20px;
+}
+.uprava1{
+    text-align: center;
+    border: 2px dashed blue;
+    margin: 50px;
+    padding: 20px;
+    background-color: greenyellow;
+}
+
+.uprava2{
+    border: 1px solid blue;
+    text-align: center;
+    padding: 20px;
+}
+
+.uprava12{
+    text-align: center;
+}
+
+.uprava_rozvrhu{
+    font-size: x-large;
+    border: 2px solid black;
+    border-collapse: collapse ;
+    background-color: white;
+    
+}
+
+
+th{
+    border: 2px solid black;
+    border-collapse: collapse ;
+    padding: 25px;
+}
+
+table{
+    text-align: center;
+    margin: auto;
+}
